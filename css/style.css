@@ -21,7 +21,7 @@ body {
     background-color: var(--dark-cyan);
     overflow: hidden;
 }
-h2, strong {
+h1, strong {
     font-size: 18px;
     font-weight: 800;
 }
@@ -84,7 +84,7 @@ h2, strong {
 .container .card .name {
     margin-top: 2rem;
 }
-.container .card .name h2 {
+.container .card .name h1 {
     display: inline-block;
 }
 .container .card .name p {
